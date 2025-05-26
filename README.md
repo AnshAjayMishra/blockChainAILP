@@ -9,6 +9,10 @@ This project serves as a starting point for building blockchain-related AI landi
 
 You can run the project locally to see the landing page in action.
 
+
+## Image-Demo
+![alt text](image.png)
+
 ---
 
 ## Features
