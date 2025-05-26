@@ -1,4 +1,4 @@
-# blockChainAILP
+# Serendle AI
 
 A simple, clean landing page built with **Next.js** and **Tailwind CSS**.  
 This project serves as a starting point for building blockchain-related AI landing pages or any modern web app with a sleek design and fast performance.
